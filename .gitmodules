@@ -1,0 +1,3 @@
+[submodule "rustyrig-fw"]
+	path = src
+	url = https://github.com/PripyatAutomations/rustyrig-fw.git
